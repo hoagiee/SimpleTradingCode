@@ -126,6 +126,8 @@ client.mass_quote(
 
 
 Result
+https://exchange.imctradingcompetition.com/j?subpage=net_positions_total
+
 <img width="646" alt="Screenshot 2023-04-03 at 14 21 00" src="https://user-images.githubusercontent.com/127374462/229410783-39d096a8-adbb-46fc-914d-0e72ddf04226.png">
 
 
